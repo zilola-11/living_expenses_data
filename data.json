@@ -1,0 +1,12 @@
+{
+    "rent": 1200, 
+    "utilities": 300, 
+    "transport": 450, 
+    "food": 600, 
+    "entertainment": 110, 
+    "clothing": 220, 
+    "health": 30, 
+    "internet": 60, 
+    "education": 200, 
+    "other": 100
+}
